@@ -18,13 +18,6 @@ This project demonstrates a brain-controlled car prototype using EEG signal data
 - **NumPy**
 - **Feedforward Neural Network (simulated in example)**
 
-## 📁 Project Structure
-
-├── main.py # Python script for EEG signal handling and MQTT communication
-├── esp32_receiver.ino # Arduino code for ESP32 to receive MQTT commands
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
 ## 🚀 Getting Started
 
 ### Python Side
